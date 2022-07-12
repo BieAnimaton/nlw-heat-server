@@ -38,7 +38,7 @@
 ```
 | Parameter   | Type       | Description                                   |
 | :---------- | :--------- | :------------------------------------------ |
-| `code` (BODY)| `int` | **Mandatory**. The code inserted is the same as returned by GitHub Oauth, following the link: http://localhost:4000/github. |
+| `code` (BODY)| `string` | **Mandatory**. The code inserted is the same as returned by GitHub Oauth, following the link: http://localhost:4000/github. |
 
 
 
